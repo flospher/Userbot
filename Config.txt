@@ -3,13 +3,13 @@ from os import getenv
 from dotenv import load_dotenv
 
 
-API_ID = int(6435225) #optional
-API_HASH = "" #optional
+API_ID = int(23212939) #optional
+API_HASH = "97d49a978c10387ac8c8332b01ed4357" #optional
 
 SUDO_USERS = list(map(int, ("").split()))
-OWNER_ID = int(1234567890)
-MONGO_URL = "MONGO_URL"
-BOT_TOKEN = "BOT_TOKEN"
+OWNER_ID = int(6921617991)
+MONGO_URL = "mongodb+srv://azaz00azaz35: o6vQQOPPukGbvxay@cluster0.dlpjtex.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+BOT_TOKEN = "7163346102:AAGj4DpP70zYuoqRXG8tMlVn6Kfm40I5cc4"
 ALIVE_PIC = 'https://telegra.ph/file/3c52a01057865f7511168.jpg'
 ALIVE_TEXT = None
 PM_LOGGER = None
